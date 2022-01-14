@@ -4,7 +4,7 @@ Parsing users from VK groups of extracurricular activities using VK API.
 Creating a similarity graph between groups based on the common subscribers.
 
 ## Scripts
-* `eca-vk-parsing.py` - Parsing and creation of an edgelist.
+* `eca-vk-parsing.py` - Parsing and similarity calculation.
 
 ## Data Sources
 * `data/eca_info_podolsk.xlsx` - Names and links to the ECA groups in Podolsk
