@@ -1,6 +1,7 @@
-## Parsing VK.API ECA groups in Podolsk
+## Parsing VK ECA groups in Podolsk
 
-Parsing users from VK groups of extracurricular activities and creating a similarity graph between groups based on the common subscribers.
+Parsing users from VK groups of extracurricular activities using VK API. 
+Creating a similarity graph between groups based on the common subscribers.
 
 ## Scripts
 * `eca-vk-parsing.py` - Parsing and edgelist creation.
